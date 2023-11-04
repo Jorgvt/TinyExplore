@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "TinyExplore"
+  site-url: "https://Jorgvt.github.io/TinyExplore"
+  description: "A repository to explore tinygrad."
+  repo-branch: main
+  repo-url: "https://github.com/Jorgvt/TinyExplore"
